@@ -90,10 +90,11 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 ## Publications: Conference Papers
 
 ### 2019
-* J. Lin, M. Pipattanasomporn and S. Rahman, “Comparative analysis of blockchain-based smart contracts for solar electricity exchanges,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), 17-20 February 2019, Washington DC.
-* M. Pipattanasomporn, M. Kuzlu and S. Rahman, “Blockchain-based solar electricity exchange: conceptual architecture and laboratory setup,”Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), 17-20 February 2019, Washington DC.
-* Z. Jing, M. Cai, M. Pipattanasomporn, S. Rahman, S. Kothandaraman, A. Malekpour, E. A. Passo and S. Bahramirad, “Commercial building load forecasts with artificial neural network,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), 17-20 February 2019, Washington DC.
-* A. Haque, M. Pipattanasomporn, S. Rahman, S. Kothandaraman, A. Malekpour, E. A. Passo and S. Bahramirad, “An SVR-based building-level load forecasting method considering impact of HVAC set points,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), 17-20 February 2019, Washington DC.
+* E. Bingöl, M. Kuzlu and M. Pipattanasomporn, "A LoRa-based Smart Streetlighting System for Smart Cities," In Proc. the 7th International Istanbul Smart Grids and Cities Congress and Fair, Istanbul, Turkey, April 25-26, 2019. 
+* J. Lin, M. Pipattanasomporn and S. Rahman, “Comparative analysis of blockchain-based smart contracts for solar electricity exchanges,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), Washington DC, 17-20 February 2019.
+* M. Pipattanasomporn, M. Kuzlu and S. Rahman, “Blockchain-based solar electricity exchange: conceptual architecture and laboratory setup,”Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), Washington DC, 17-20 February 2019.
+* Z. Jing, M. Cai, M. Pipattanasomporn, S. Rahman, S. Kothandaraman, A. Malekpour, E. A. Passo and S. Bahramirad, “Commercial building load forecasts with artificial neural network,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), Washington DC, 17-20 February 2019.
+* A. Haque, M. Pipattanasomporn, S. Rahman, S. Kothandaraman, A. Malekpour, E. A. Passo and S. Bahramirad, “An SVR-based building-level load forecasting method considering impact of HVAC set points,” Accepted for presentation at 2019 IEEE Intelligent Smart Grid Technology Conference (ISGT), Washington DC, 17-20 February 2019.
 
 ### 2018
 * M. Pipattanasomporn, M. Kuzlu and S. Rahman, “Blockchain-based Solar Electricity Exchange: Conceptual Architecture and Hands-on Experiment,” In Proc. ICUE 2018 on Green Energy for Sustainable Development, Phuket, Thailand, October 24-26, 2018.
