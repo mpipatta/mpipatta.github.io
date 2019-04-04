@@ -51,11 +51,11 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 * F. Sehar, M. Pipattanasomporn and S. Rahman, “[Coordinated Control of Building Loads, PVs and Ice Storage to Absorb PEV Penetrations](https://www.sciencedirect.com/science/article/pii/S0142061517313716),” International Journal of Electrical Power and Energy Systems, Vol. 95, pp. 394-404, Feb 2018.
 
 ### 2017
-* X. Zhang, M. Pipattanasomporn and S. Rahman, “A self-learning algorithm for coordinated control of rooftop units in small- and medium-sized commercial buildings“, Applied Energy, Vol. 205, pp. 1034-1049, Nov 2017.
-* M. Kuzlu, M. Rahman, M. Pipattanasomporn and S. Rahman, “An internet-based communication platform for residential demand response programs”, IET Networks, Volume 6, Issue 2, pp. 25 – 31, March 2017.
-* F. Sehar, M. Pipattanasomporn and S. Rahman, “Demand management to mitigate impacts of plug-in electric vehicle fast charge in buildings with renewables”, Energy, Volume 120, Pages 642–651, February 2017.
-* S. Ghosh, S. Rahman and M. Pipattanasomporn, “Distribution voltage regulation through active power curtailment with PV inverters and solar generation forecasts”, IEEE Trans. On Sustainable Energy, Vol. 8., Iss. 1, pp.13-22, January 2017.
-* F. Sehar, M. Pipattanasomporn and S. Rahman, “Integrated automation for optimal demand management in commercial buildings considering occupant comfort”, Sustainable Cities and Society, vol. 28, pp. 16-29, January 2017.
+* X. Zhang, M. Pipattanasomporn and S. Rahman, “[A self-learning algorithm for coordinated control of rooftop units in small- and medium-sized commercial buildings](https://www.sciencedirect.com/science/article/pii/S030626191731111X),“ Applied Energy, Vol. 205, pp. 1034-1049, Nov 2017.
+* M. Kuzlu, M. Rahman, M. Pipattanasomporn and S. Rahman, “[An internet-based communication platform for residential demand response programs](https://ieeexplore.ieee.org/document/7890372),” IET Networks, Volume 6, Issue 2, pp. 25 – 31, March 2017.
+* F. Sehar, M. Pipattanasomporn and S. Rahman, “[Demand management to mitigate impacts of plug-in electric vehicle fast charge in buildings with renewables](https://www.sciencedirect.com/science/article/abs/pii/S036054421631773X),” Energy, Volume 120, Pages 642–651, February 2017.
+* S. Ghosh, S. Rahman and M. Pipattanasomporn, “[Distribution voltage regulation through active power curtailment with PV inverters and solar generation forecasts](https://ieeexplore.ieee.org/document/7486068),” IEEE Trans. On Sustainable Energy, Vol. 8., Iss. 1, pp.13-22, January 2017.
+* F. Sehar, M. Pipattanasomporn and S. Rahman, “[Integrated automation for optimal demand management in commercial buildings considering occupant comfort](https://www.sciencedirect.com/science/article/pii/S2210670716302335),” Sustainable Cities and Society, vol. 28, pp. 16-29, January 2017.
 
 ### 2016
 * A. Saha, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “Enabling Residential Demand Response Applications with a ZigBee-based Load Controller Systems”, Intelligent Industrial Systems, Vol. 2, Iss. 4, pp. 333-318, December 2016.
