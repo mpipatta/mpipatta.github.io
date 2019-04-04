@@ -40,15 +40,15 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 ## Publications: Journal Papers
 ### 2019
 * Adhikari, M. Pipattanasomporn and S. Rahman, “Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services,” IEEE Transactions on Smart Grid (under review).
-* Bian, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “Performance Evaluation of Communication Technologies and Network Structure for Smart Grid Applications,” IET Communications, February 2019.
-* M. Cai, M. Pipattanasomporn and S. Rahman, “Day-ahead building-level load forecasts using deep learning vs. traditional time-series techniques,” Applied Energy, vol. 236, pp. 1078-1088, February 2019.
-* D. Bian, D. Shi, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “Mitigating the Impact of Renewable Variability With Demand-Side Resources Considering Communication and Cyber Security Limitations,” in IEEE Access, vol. 7, pp. 1379-1389, 2019.
+* Bian, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “[Performance Evaluation of Communication Technologies and Network Structure for Smart Grid Applications](https://arxiv.org/abs/1901.11509),” IET Communications, February 2019.
+* M. Cai, M. Pipattanasomporn and S. Rahman, “[Day-ahead building-level load forecasts using deep learning vs. traditional time-series techniques](https://www.sciencedirect.com/science/article/pii/S0306261918318609),” Applied Energy, vol. 236, pp. 1078-1088, February 2019.
+* D. Bian, D. Shi, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Mitigating the Impact of Renewable Variability With Demand-Side Resources Considering Communication and Cyber Security Limitations](https://ieeexplore.ieee.org/document/8572692),” in IEEE Access, vol. 7, pp. 1379-1389, 2019.
 
 ### 2018
-* A. Nugur, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “Design and Development of an IoT Gateway for Smart Building Applications,” in IEEE Internet of Things Journal. doi: 10.1109/JIOT.2018.2885652
-* A. Alfadda, S. Rahman and M. Pipattanasomporn, “Solar Irradiance Forecast using Aerosols Measurements: A Data Driven Approach,” Solar Energy, Vol. 170, pp 924-939, August 2018.
-* R. Adhikari, M. Pipattanasomporn and S. Rahman, “An algorithm for optimal management of aggregated HVAC power demand using smart thermostats,” Applied Energy, pp. 166-177, May 2018.
-* F. Sehar, M. Pipattanasomporn and S. Rahman, “Coordinated Control of Building Loads, PVs and Ice Storage to Absorb PEV Penetrations,” International Journal of Electrical Power and Energy Systems, Vol. 95, pp. 394-404, Feb 2018.
+* A. Nugur, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Design and Development of an IoT Gateway for Smart Building Applications](https://ieeexplore.ieee.org/document/8567940),” in IEEE Internet of Things Journal. doi: 10.1109/JIOT.2018.2885652
+* A. Alfadda, S. Rahman and M. Pipattanasomporn, “[Solar Irradiance Forecast using Aerosols Measurements: A Data Driven Approach](https://www.sciencedirect.com/science/article/pii/S0038092X18305309),” Solar Energy, Vol. 170, pp 924-939, August 2018.
+* R. Adhikari, M. Pipattanasomporn and S. Rahman, “[An algorithm for optimal management of aggregated HVAC power demand using smart thermostats](https://www.sciencedirect.com/science/article/pii/S0306261918302101),” Applied Energy, pp. 166-177, May 2018.
+* F. Sehar, M. Pipattanasomporn and S. Rahman, “[Coordinated Control of Building Loads, PVs and Ice Storage to Absorb PEV Penetrations](https://www.sciencedirect.com/science/article/pii/S0142061517313716),” International Journal of Electrical Power and Energy Systems, Vol. 95, pp. 394-404, Feb 2018.
 
 ### 2017
 * X. Zhang, M. Pipattanasomporn and S. Rahman, “A self-learning algorithm for coordinated control of rooftop units in small- and medium-sized commercial buildings“, Applied Energy, Vol. 205, pp. 1034-1049, Nov 2017.
