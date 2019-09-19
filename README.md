@@ -40,8 +40,8 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 ## Publications: Journal Papers
 ### 2019
 * X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "An IoT-based Thermal Model Learning Framework for Smart Buildings," IEEE Transactions on Internet of Things (under review).
-* Adhikari, M. Pipattanasomporn and S. Rahman, “Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services,” IEEE Transactions on Smart Grid (under review).
-* J. Lin, M. Pipattanasomporn and S. Rahman, "Comparative Analysis of Auction Mechanisms and Bidding Strategies for P2P Solar Transactive Energy Markets," Applied Energy, Accepted for publication August 2019.
+* Adhikari, M. Pipattanasomporn and S. Rahman, “Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services,” IEEE Transactions on Smart Grid, Accepted for publication, September 2019.
+* J. Lin, M. Pipattanasomporn and S. Rahman, "Comparative Analysis of Auction Mechanisms and Bidding Strategies for P2P Solar Transactive Energy Markets," Applied Energy, Accepted for publication, August 2019.
 * A. Nugur, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Design and Development of an IoT Gateway for Smart Building Applications](https://ieeexplore.ieee.org/document/8752396),” in IEEE Internet of Things Journal, Accepted for publication 2019.
 * D. Bian, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “[Performance Evaluation of Communication Technologies and Network Structure for Smart Grid Applications](https://arxiv.org/abs/1901.11509),” IET Communications, February 2019.
 * M. Cai, M. Pipattanasomporn and S. Rahman, “[Day-ahead building-level load forecasts using deep learning vs. traditional time-series techniques](https://www.sciencedirect.com/science/article/pii/S0306261918318609),” Applied Energy, vol. 236, pp. 1078-1088, February 2019.
