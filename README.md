@@ -38,16 +38,21 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 * “Intelligent Distributed Autonomous Power Systems (IDAPS): A Framework for a Resilient and Environmentally-Friendly Microgrid,” sponsored by U.S. National Science Foundation, Sep 2007 – Aug 2008, PI – S. Rahman, co-PI – M. Pipattanasomporn. Amount: $59,999.
 
 ## Publications: Journal Papers
+### 2020
+* M., M. Pipattanasomporn and S. Rahman, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy (accepted for publication).
+* X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "[An IoT-based Thermal Model Learning Framework for Smart Buildings](https://ieeexplore.ieee.org/abstract/document/8890732)," IEEE Transactions on Internet of Things (accepted for publication).
+* Adhikari, M. Pipattanasomporn and S. Rahman, “[Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services](https://ieeexplore.ieee.org/document/8862880),” IEEE Transactions on Smart Grid (accepted for publication).
+
+
 ### 2019
-* X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "An IoT-based Thermal Model Learning Framework for Smart Buildings," IEEE Transactions on Internet of Things (under review).
-* Adhikari, M. Pipattanasomporn and S. Rahman, “Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services,” IEEE Transactions on Smart Grid, Accepted for publication, September 2019.
-* J. Lin, M. Pipattanasomporn and S. Rahman, "Comparative Analysis of Auction Mechanisms and Bidding Strategies for P2P Solar Transactive Energy Markets," Applied Energy, Accepted for publication, August 2019.
-* A. Nugur, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Design and Development of an IoT Gateway for Smart Building Applications](https://ieeexplore.ieee.org/document/8752396),” in IEEE Internet of Things Journal, Accepted for publication 2019.
-* D. Bian, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “[Performance Evaluation of Communication Technologies and Network Structure for Smart Grid Applications](https://arxiv.org/abs/1901.11509),” IET Communications, February 2019.
+* J. Lin, M. Pipattanasomporn and S. Rahman, "[Comparative Analysis of Auction Mechanisms and Bidding Strategies for P2P Solar Transactive Energy Markets](https://doi.org/10.1016/j.apenergy.2019.113687)," Applied Energy, Vol 255, December 2019.
+* A. Nugur, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Design and Development of an IoT Gateway for Smart Building Applications](https://ieeexplore.ieee.org/document/8752396),” IEEE Internet of Things Journal, Vol. 6, Iss. 5, October 2019.
+* D. Bian, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “[Performance Evaluation of Communication Technologies and Network Structure for Smart Grid Applications](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2018.5408),” IET Communications, Vol. 13, Iss. 8, May 2019.
 * M. Cai, M. Pipattanasomporn and S. Rahman, “[Day-ahead building-level load forecasts using deep learning vs. traditional time-series techniques](https://www.sciencedirect.com/science/article/pii/S0306261918318609),” Applied Energy, vol. 236, pp. 1078-1088, February 2019.
-* D. Bian, D. Shi, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Mitigating the Impact of Renewable Variability With Demand-Side Resources Considering Communication and Cyber Security Limitations](https://ieeexplore.ieee.org/document/8572692),” in IEEE Access, vol. 7, pp. 1379-1389, 2019.
+
 
 ### 2018
+* D. Bian, D. Shi, M. Pipattanasomporn, M. Kuzlu and S. Rahman, “[Mitigating the Impact of Renewable Variability With Demand-Side Resources Considering Communication and Cyber Security Limitations](https://ieeexplore.ieee.org/document/8572692),” IEEE Access, pp. 1379-1389, December 2018.
 * A. Alfadda, S. Rahman and M. Pipattanasomporn, “[Solar Irradiance Forecast using Aerosols Measurements: A Data Driven Approach](https://www.sciencedirect.com/science/article/pii/S0038092X18305309),” Solar Energy, Vol. 170, pp 924-939, August 2018.
 * R. Adhikari, M. Pipattanasomporn and S. Rahman, “[An algorithm for optimal management of aggregated HVAC power demand using smart thermostats](https://www.sciencedirect.com/science/article/pii/S0306261918302101),” Applied Energy, pp. 166-177, May 2018.
 * F. Sehar, M. Pipattanasomporn and S. Rahman, “[Coordinated Control of Building Loads, PVs and Ice Storage to Absorb PEV Penetrations](https://www.sciencedirect.com/science/article/pii/S0142061517313716),” International Journal of Electrical Power and Energy Systems, Vol. 95, pp. 394-404, Feb 2018.
@@ -90,6 +95,10 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 * M. Pipattanasomporn, M. Willingham and S. Rahman, “Implications of on-site distributed generation for commercial/industrial facilities,” Power Systems, IEEE Transactions on , vol.20, no.1, pp.206-212, Feb. 2005.
 
 ## Publications: Conference Papers
+
+### 2020
+* I. Dimobi, M. Pipattanasomporn and S. Rahman, "A Transactive Grid with Microgrids Using Blockchain for the Energy Internet," accepted for presentation at IEEE ISGT 2020, Washington, D.C., February 2020.
+* S. Sarp, M. Kuzlu and M. Pipattanasomporn, "Realizing the Potential of Blockchain Technology in Smart Grid Applications," accepted for presentation at IEEE ISGT 2020, Washington, D.C., February 2020.
 
 ### 2019
 * B. Vatcharakomonphan, C. Chaksangchaichot, N. Ketchaikosol, T. Tetiranont, T. Chullapram,
