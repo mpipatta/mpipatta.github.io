@@ -7,7 +7,7 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 
 
 ## Education 
-* **Ph.D.**, Electrical Engineering, Virginia Polytechnic Institute and State University, USA 2005<br>
+* **Ph.D.**, Electrical Engineering, Virginia Polytechnic Institute and State University, USA 2004<br>
 * **M.S.**, Energy Economics and Planning, Asian Institute of Technology, THAILAND, 2001<br>
 * **B.S.**, Electrical Engineering, Chulalongkorn University, THAILAND, 1999<br>
 
@@ -65,11 +65,11 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 * F. Sehar, M. Pipattanasomporn and S. Rahman, “[Integrated automation for optimal demand management in commercial buildings considering occupant comfort](https://www.sciencedirect.com/science/article/pii/S2210670716302335),” Sustainable Cities and Society, vol. 28, pp. 16-29, January 2017.
 
 ### 2016
-* A. Saha, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “Enabling Residential Demand Response Applications with a ZigBee-based Load Controller Systems”, Intelligent Industrial Systems, Vol. 2, Iss. 4, pp. 333-318, December 2016.
-* J. Zou, M. Pipattanasomporn, S. Rahman and X. Lai, “A Frequency Regulation Framework for Hydro Plants to Mitigate Wind Penetration Challenges”, IEEE Trans. On Sustainable Energy, vol. 7, no. 4, pp.1583 – 1591, October 2016.
-* F. Sehar, M. Pipattanasomporn and S. Rahman, “An Energy Management Model to Study Energy and Peak Power Savings from PV and Storage in Demand Responsive Buildings”, Applied Energy, vol. 173, pp. 406-417, July 2016.
-* Q. Wang, M. Pipattanasomporn, M. Kuzlu, T. Yi, Y. Li and S. Rahman, “A Framework for Vulnerability Assessment of Communication Systems for Electric Power Grids,” IET Generation, Transmission & Distribution, Vol. 10, Iss. 2, pp. 477-486, Feb 2016.
-* F. Sehar, M. Pipattanasomporn and S. Rahman, “A peak-load reduction computing tool sensitive to commercial building environmental preferences“, Applied Energy, Vol. 161, pp. 279-289, Jan 2016.
+* A. Saha, M. Kuzlu, M. Pipattanasomporn and S. Rahman, “[Enabling Residential Demand Response Applications with a ZigBee-based Load Controller Systems](https://link.springer.com/article/10.1007/s40903-016-0059-4)”, Intelligent Industrial Systems, Vol. 2, Iss. 4, pp. 333-318, December 2016.
+* J. Zou, M. Pipattanasomporn, S. Rahman and X. Lai, “[A Frequency Regulation Framework for Hydro Plants to Mitigate Wind Penetration Challenges](https://ieeexplore.ieee.org/document/7470455)”, IEEE Trans. On Sustainable Energy, vol. 7, no. 4, pp.1583 – 1591, October 2016.
+* F. Sehar, M. Pipattanasomporn and S. Rahman, “[An Energy Management Model to Study Energy and Peak Power Savings from PV and Storage in Demand Responsive Buildings](https://doi.org/10.1016/j.apenergy.2016.04.039)”, Applied Energy, vol. 173, pp. 406-417, July 2016.
+* Q. Wang, M. Pipattanasomporn, M. Kuzlu, T. Yi, Y. Li and S. Rahman, “[A Framework for Vulnerability Assessment of Communication Systems for Electric Power Grids](https://ieeexplore.ieee.org/document/7407702),” IET Generation, Transmission & Distribution, Vol. 10, Iss. 2, pp. 477-486, Feb 2016.
+* F. Sehar, M. Pipattanasomporn and S. Rahman, “[A peak-load reduction computing tool sensitive to commercial building environmental preferences](https://doi.org/10.1016/j.apenergy.2015.10.009)", Applied Energy, Vol. 161, pp. 279-289, Jan 2016.
 
 ### 2015
 * M. Kuzlu, M. Pipattanasomporn and S. Rahman, “Impacts of House Sizes, Appliance Ratings and Usage Patterns  on Demand Response Applications: A Case-based Study,” Intelligent Industrial Systems, Vol. 1, Iss. 4, pp. 345-357, Dec 2015.
