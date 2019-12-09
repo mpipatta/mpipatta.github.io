@@ -19,27 +19,10 @@ Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](ma
 * **Associate Professor** of Electrical and Computer Engineering, Virginia Tech, USA 2013 – 2016<br>
 * **Assistant Professor** of Electrical and Computer Engineering, Virginia Tech, USA 2006 – 2013<br>
 
-## Research Contracts and Grants
-
-* “A Probability-based Model for Cost-effective Integration of Renewables into the Electricity Grid”, sponsored by U.S. Department of Energy, Oct 2017 – September 2019, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $449,814.
-* “STTR Phase I: A Blockchain-enabled Peer-to-Peer Energy Trading Platform for Managing Complex Exchange of Kilowatt-hours and Negawatts”, sponsored by U.S. Department of Energy, July 2018 – April 2019, PI – M. Pipattanasomporn, Amount: $149,773 (the work was transferred to Old Dominion University during the transition).
-* Development of Dynamic Input-Output Building Models for System-Level Energy Savings and Peak Demand Reduction Assessment”, sponsored by ComEd, May 2018 – Dec 2018, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $190,000.
-* “STTR Phase I: An Agent-based Self-learning System for Efficient Building Operations and Automated Participation in Electricity Markets”, sponsored by U.S. National Science Foundation (NSF), July 2016 – June 2017, PI – M. Pipattanasomporn (BEM Controls), co-PI – M. Kuzlu (Virginia Tech), Amount: $224,856.
-* “Building Energy Management Open Source Software (BEMOSS)”, sponsored by U.S. Department of Energy, Oct 2013 – March 2017, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $2,055,680.
-* “Optimizing Electric Power Distribution Network Operation with Demand Response, Solar Photovoltaics and Energy Storage to Mitigate the Impact of Glowing Electric Vehicle Penetration,” sponsored by U.S. National Science Foundation, Aug 2012 – Feb 2017, PI – M. Pipattanasomporn, Amount: $397,187.
-* “A Test-bed for Analyzing the Security and Resilience of the DG-Integrated Electric Power Distribution Network,” sponsored by U.S. National Science Foundation, Sep 2009 – Aug 2013, PI – M. Pipattanasomporn and co-PI – S. Rahman. Amount: $345,426.
-* “US-Egypt Cooperation: International Workshop on Wind Energy Development,” sponsored by U.S. National Science Foundation, Mar 2010 – Mar 2011, PI – M. Pipattanasomporn, co-PI – J. Twomey. Amount: $97,554.
-* “US-China Workshop: Identification of Challenges and Opportunities for Large Scale Deployment of the Smart Grid,” sponsored by National Science Foundation, July 2012 – June 2013, PI – S. Rahman and M. Pipattanasomporn. Amount: $38,580.
-* “Partnerships for Innovation: Role of the Smart Grid in Alleviating Electrical Power System Stress Conditions through Demand Response,” sponsored by U.S. National Science Foundation, Sep 2011 – Sep 2013, PI – S. Rahman and co-PI – J. Bohland and M. Pipattanasomporn. Amount: $699,969.
-* “Bi-Level Demand Sensitive LED Street Lighting Systems,” sponsored by Army Corps of Engineers, May 2010 – May 2013, PI – S. Rahman and co-PI – M. Pipattanasomporn. Amount: $566,056.
-* “Smart Grid Information Clearinghouse,” sponsored by U.S. Department of Energy, Sep 2009 – Aug 2014, PI – S. Rahman, co-PI – M. Pipattanasomporn, E. Gunther (EnerNex) and P. Ryan (IEEE-PES). Amount: $1,514,428.
-* “Feasibility and Guidelines for the Development of Microgrids in Campus Type Facilities,” sponsored by United States Army Corps of Engineers, Sep 2009 – Sep 2012, PI – S. Rahman and co-PI – M. Pipattanasomporn. Amount: $400,703.
-* “Modeling and Simulation of a DG-Integrated Intelligent Microgrid,” sponsored by Department of Defense – SERDP program, Jun 2008 – Sep 2009, PI – S. Rahman, co-PI – M. Pipattanasomporn. Amount: $116,161.
-* “Intelligent Distributed Autonomous Power Systems (IDAPS): A Framework for a Resilient and Environmentally-Friendly Microgrid,” sponsored by U.S. National Science Foundation, Sep 2007 – Aug 2008, PI – S. Rahman, co-PI – M. Pipattanasomporn. Amount: $59,999.
 
 ## Publications: Journal Papers
 ### 2020
-* M., M. Pipattanasomporn and S. Rahman, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy (accepted for publication).
+* M. Alrashidi, M. Pipattanasomporn and S. Rahman, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy (accepted for publication).
 * X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "[An IoT-based Thermal Model Learning Framework for Smart Buildings](https://ieeexplore.ieee.org/abstract/document/8890732)," IEEE Transactions on Internet of Things (accepted for publication).
 * Adhikari, M. Pipattanasomporn and S. Rahman, “[Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services](https://ieeexplore.ieee.org/document/8862880),” IEEE Transactions on Smart Grid (accepted for publication).
 
@@ -170,6 +153,26 @@ N. Prompoon, C. Ratanamahatana and M. Pipattanasomporn, "LockerSwarm: An IoT-bas
 * M. Pipattanasomporn, H. Feroze and S. Rahman, “Multi-agent systems in a distributed smart grid: Design and implementation,” In Proc. 2009 IEEE Power Systems Conference and Exposition, Seattle, WA, 15-18 March 2009.
 * S. Rahman, M. Pipattanasomporn and Y. Teklu, “Intelligent Distributed Autonomous Power Systems (IDAPS),” In Proc. 2007 IEEE Power Engineering Society General Meeting, Tampa, FL, 24-28 June 2007.
 * M. Pipattanasomporn and S. Rahman, “Intelligent distributed autonomous power systems (IDAPS) and their impact on critical electrical loads,” In Proc. 2005 First IEEE International Workshop on Critical Infrastructure Protection, Darmstadt, Germany, 3-4 November 2005.
+
+
+## Research Contracts and Grants
+
+* “A Probability-based Model for Cost-effective Integration of Renewables into the Electricity Grid”, sponsored by U.S. Department of Energy, Oct 2017 – September 2019, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $449,814.
+* “STTR Phase I: A Blockchain-enabled Peer-to-Peer Energy Trading Platform for Managing Complex Exchange of Kilowatt-hours and Negawatts”, sponsored by U.S. Department of Energy, July 2018 – April 2019, PI – M. Pipattanasomporn, Amount: $149,773 (the work was transferred to Old Dominion University during the transition).
+* Development of Dynamic Input-Output Building Models for System-Level Energy Savings and Peak Demand Reduction Assessment”, sponsored by ComEd, May 2018 – Dec 2018, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $190,000.
+* “STTR Phase I: An Agent-based Self-learning System for Efficient Building Operations and Automated Participation in Electricity Markets”, sponsored by U.S. National Science Foundation (NSF), July 2016 – June 2017, PI – M. Pipattanasomporn (BEM Controls), co-PI – M. Kuzlu (Virginia Tech), Amount: $224,856.
+* “Building Energy Management Open Source Software (BEMOSS)”, sponsored by U.S. Department of Energy, Oct 2013 – March 2017, PI – S. Rahman, co-PI – M. Pipattanasomporn, Amount: $2,055,680.
+* “Optimizing Electric Power Distribution Network Operation with Demand Response, Solar Photovoltaics and Energy Storage to Mitigate the Impact of Glowing Electric Vehicle Penetration,” sponsored by U.S. National Science Foundation, Aug 2012 – Feb 2017, PI – M. Pipattanasomporn, Amount: $397,187.
+* “A Test-bed for Analyzing the Security and Resilience of the DG-Integrated Electric Power Distribution Network,” sponsored by U.S. National Science Foundation, Sep 2009 – Aug 2013, PI – M. Pipattanasomporn and co-PI – S. Rahman. Amount: $345,426.
+* “US-Egypt Cooperation: International Workshop on Wind Energy Development,” sponsored by U.S. National Science Foundation, Mar 2010 – Mar 2011, PI – M. Pipattanasomporn, co-PI – J. Twomey. Amount: $97,554.
+* “US-China Workshop: Identification of Challenges and Opportunities for Large Scale Deployment of the Smart Grid,” sponsored by National Science Foundation, July 2012 – June 2013, PI – S. Rahman and M. Pipattanasomporn. Amount: $38,580.
+* “Partnerships for Innovation: Role of the Smart Grid in Alleviating Electrical Power System Stress Conditions through Demand Response,” sponsored by U.S. National Science Foundation, Sep 2011 – Sep 2013, PI – S. Rahman and co-PI – J. Bohland and M. Pipattanasomporn. Amount: $699,969.
+* “Bi-Level Demand Sensitive LED Street Lighting Systems,” sponsored by Army Corps of Engineers, May 2010 – May 2013, PI – S. Rahman and co-PI – M. Pipattanasomporn. Amount: $566,056.
+* “Smart Grid Information Clearinghouse,” sponsored by U.S. Department of Energy, Sep 2009 – Aug 2014, PI – S. Rahman, co-PI – M. Pipattanasomporn, E. Gunther (EnerNex) and P. Ryan (IEEE-PES). Amount: $1,514,428.
+* “Feasibility and Guidelines for the Development of Microgrids in Campus Type Facilities,” sponsored by United States Army Corps of Engineers, Sep 2009 – Sep 2012, PI – S. Rahman and co-PI – M. Pipattanasomporn. Amount: $400,703.
+* “Modeling and Simulation of a DG-Integrated Intelligent Microgrid,” sponsored by Department of Defense – SERDP program, Jun 2008 – Sep 2009, PI – S. Rahman, co-PI – M. Pipattanasomporn. Amount: $116,161.
+* “Intelligent Distributed Autonomous Power Systems (IDAPS): A Framework for a Resilient and Environmentally-Friendly Microgrid,” sponsored by U.S. National Science Foundation, Sep 2007 – Aug 2008, PI – S. Rahman, co-PI – M. Pipattanasomporn. Amount: $59,999.
+
 
 ## Professional Activities
 * Local Organizing Committee Chair, 2014 IEEE PES Conf. on Innovative Smart Grid Technologies (ISGT), Washington, D.C., Feb. 2014.
