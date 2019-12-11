@@ -1,5 +1,7 @@
 ## Tutorials on Building-level Data Analytics
 
+**Prepared by [Manisa Pipattanasomporn](https://mpipatta.github.io)**
+
 During the past several years, I have been involved in smart building research. I would like to create this set of tutorials to share the knowledge that I learned, related to building-level data analytics, building-level load forecasting and more.
 
 This page was created in December 2019, and contents will be added as they become available!
