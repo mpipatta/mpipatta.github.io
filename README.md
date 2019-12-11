@@ -5,7 +5,7 @@
 Google scholar Page: [GoogleScholar](http://scholar.google.com/citations?hl=en&user=4W2KIQkAAAAJ)<br>
 Email: [mpipatta@vt.edu](mailto:mpipatta@vt.edu) and [manisa.pip@chula.ac.th](mailto:manisa.pip@chula.ac.th)
 
-See my tutorials about building data analytics [here](https://mpipatta.github.io/test.html) (under development).
+See my tutorials about building data analytics [here](https://mpipatta.github.io/TutorialContents.html) (under development).
 
 ## Education 
 * **Ph.D.**, Electrical Engineering, Virginia Polytechnic Institute and State University, USA 2004<br>
