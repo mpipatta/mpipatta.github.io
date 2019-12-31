@@ -14,4 +14,5 @@ This notebook explores the CU-BEMS dataset of Chamchuri 5 building. Chamchuri 5 
 
 Python is powerful to handle time series data. In this tutorial, we will learn: how to import time-series data, how to deal with missing time-series data, how to filter a selected time range, how to visualize time-series data and how to resample time-series data.
 
-* Building-level load forecasting with RNN family (coming soon)
+
+For those who would like to review commonly used Python codes/libraries for data analytics, please refer to [ReviewBasicPython.ipynb](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/ReviewBasicPython.ipynb). 
