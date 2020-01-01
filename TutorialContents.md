@@ -12,7 +12,7 @@ This page was created in December 2019, and contents will be added as they becom
 
 * [Load forecasting: Lookback forecasting](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/Lookback.ipynb) This is the simplest method for load forecasting. Let's see what are the resulting error metrics (RMSE, MAPE) using this method. 
 
-* [Load forecasting: Multiple linear regression](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/LinearRegression.ipynb) One of the most basic ML is multiple linear regression. In this tutorial, we will use MLR to perform hour-ahead load forecasting when Lt-1, t_outdoor and others are inputs to the forecasting model.
+* [Load forecasting: Multiple linear regression](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/LinearRegression.ipynb) One of the most basic ML is multiple linear regression. In this tutorial, we will use MLR to perform hour-ahead load forecasting when Lt-1, t_outdoor and others are inputs to the forecasting model. The LinearRegression model from sklearn.linear_model was used.
 
 * [Load forecasting: Autoregression model](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/Autoregression.ipynb) Autoregression is a linear regression model that uses lagged variables as inputs to predict the value at the next time step. This tutorial uses AR model from statsmodels.tsa.ar_model to automatically chooses optimal lag values for the model.
 
