@@ -23,10 +23,9 @@ See my tutorials about building data analytics [here](https://mpipatta.github.io
 
 ## Publications: Journal Papers
 ### 2020
-* M. Alrashidi, M. Pipattanasomporn and S. Rahman, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy (accepted for publication).
-* X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "[An IoT-based Thermal Model Learning Framework for Smart Buildings](https://ieeexplore.ieee.org/abstract/document/8890732)," IEEE Transactions on Internet of Things (accepted for publication).
 * Adhikari, M. Pipattanasomporn and S. Rahman, “[Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services](https://ieeexplore.ieee.org/document/8862880),” IEEE Transactions on Smart Grid (accepted for publication).
-
+* M. Alrashidi, M. Pipattanasomporn and S. Rahman, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy, vol. 149, pp. 664-681, April 2020.
+* X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "[An IoT-based Thermal Model Learning Framework for Smart Buildings](https://ieeexplore.ieee.org/abstract/document/8890732)," IEEE Internet of Things Journal, vol. 7, no. 1, pp. 518-527, Jan. 2020.
 
 ### 2019
 * J. Lin, M. Pipattanasomporn and S. Rahman, "[Comparative Analysis of Auction Mechanisms and Bidding Strategies for P2P Solar Transactive Energy Markets](https://doi.org/10.1016/j.apenergy.2019.113687)," Applied Energy, Vol 255, December 2019.
