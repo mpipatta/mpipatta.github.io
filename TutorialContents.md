@@ -20,4 +20,4 @@ This page was created in December 2019, and contents will be added as they becom
 
 * [Load forecasting: LSTM](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/LSTM.ipynb) and [BiLSTM](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/BiLSTM.ipynb): We will use LSTM and BiLSTM (keras library) for hour-ahead load forecasting.
 
-For those who would like to review commonly used Python codes/libraries for data analytics, please refer to [ReviewBasicPython.ipynb](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/ReviewBasicPython1.ipynb). 
+For those who would like to review commonly used Python codes/libraries for data analytics, please refer to [ReviewBasicPython.ipynb](https://nbviewer.jupyter.org/github/mpipatta/mpipatta.github.io/blob/master/tutorials/Day1(a)_ReviewBasicPython.ipynb). 
