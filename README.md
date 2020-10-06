@@ -23,8 +23,10 @@ See my tutorials about building data analytics [here](https://mpipatta.github.io
 
 ## Publications: Journal Papers
 ### 2020
-* R. Adhikari, M. Pipattanasomporn and S. Rahman, “[Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services](https://ieeexplore.ieee.org/document/8862880),” IEEE Transactions on Smart Grid (accepted for publication).
-* M. Alrashidi, S. Rahman and M. Pipattanasomporn, "Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds," Renewable Energy, vol. 149, pp. 664-681, April 2020.
+* G. Chitalia, M. Pipattanasomporn, V. Garg and S. Rahman, "[Robust short-term electrical load forecasting framework for commercial buildings using deep recurrent neural networks](https://doi.org/10.1016/j.apenergy.2020.115410)," Applied Energy, Vol 278, Nov 2020.
+* M. Pipattanasomporn, G. Chitalia, J. Songsiri, C. Aswakul, W. Pora, S. Suwankawin, K. Audomvongseree and N. Hoonchareon, "[CU-BEMS, smart building electricity consumption and indoor environmental sensor datasets](https://www.nature.com/articles/s41597-020-00582-3)," Scientific Data, July 2020.
+* R. Adhikari, M. Pipattanasomporn and S. Rahman, “[Heuristic algorithms for aggregated HVAC control via smart thermostats for regulation services](https://ieeexplore.ieee.org/document/8862880),” IEEE Transactions on Smart Grid, Vol. 11, Iss. 3, May 2020.
+* M. Alrashidi, S. Rahman and M. Pipattanasomporn, "[Metaheuristic Optimization Algorithms to Estimate Statistical Distribution Parameters for Characterizing Wind Speeds](https://doi.org/10.1016/j.renene.2019.12.048)," Renewable Energy, vol. 149, pp. 664-681, April 2020.
 * X. Zhang, M. Pipattanasomporn, T. Chen and S. Rahman, "[An IoT-based Thermal Model Learning Framework for Smart Buildings](https://ieeexplore.ieee.org/abstract/document/8890732)," IEEE Internet of Things Journal, vol. 7, no. 1, pp. 518-527, Jan. 2020.
 
 ### 2019
