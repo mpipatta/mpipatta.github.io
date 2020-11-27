@@ -18,7 +18,7 @@ First, we need to know what loads we are going to use. In our scenario, we will 
 | Washing machine |     350W     |     3    |       1,050W       |           1.5          |   1,575   |
 | Blender         |     600W     |     1    |        600W        |          0.01          |     6     |
 | Rice cooker     |     600W     |     1    |        600W        |          0.02          |     12    |
-| Total           |              |          |       4,566W       |                        | 13,185Wh  |
+| Total           |              |          |     *4,566W*     |                        | *13,185Wh*  |
 
 
 From the table, we can see that the total load if all appliances are used at the same time is 4,566W. This implies that we should at least size our solar panel to cover this amount.
