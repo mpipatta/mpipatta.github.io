@@ -61,8 +61,17 @@ Hence, we decided to use 14 panels of polycrystalline solar PV at 350W each, whi
 <img src = "images/12089171081290_0.jpg" alt="350WPV" width="400"/>
 
 
+## 5.0 Size the Inverter
 
+We would like to use a hybrid inverter. The benefit of the hybrid inverter is that it can use electricity generated from solar PV to power the load without going through battery. The concept of the hybrid inverter is shown below.
 
+<img src = "images/HybridInverter.jpg" alt="HybridInverter" width="400"/>
+
+We decided to use 5kVA inverter (and we need to make sure that we are not going exceed 2000W of power drawn at a time). Note: Although the inverter spec said it is 5kW, but to be on a safe side, we should not use more than half of its rating to prevent inverter damage.  Here is the spec of the inverter we chose.
+
+<a href="images/VM II Manual.pdf">
+  <img src = "images/InverterSpec.jpg" alt="InverterSpec" width="400"/>
+</a>
 
 
 Then, we can decide the size of each component, i.e., solar panels, battery units and the inverter. It is then the time that we put everything together (integration phase)
