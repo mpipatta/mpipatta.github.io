@@ -38,18 +38,27 @@ We decided to use LiFePo4 (Lithium Iron Phosphate) battery. At the time of desin
 
 If our load draws 13,185 Wh of energy each day, this is equivalent to battery depth of discharge (DoD) of (13,185/0.95)/26,880 = 51%. Hence, this battery size, i.e., two strings of 280Ah battery at 48V, is sufficient to power the above load each night, and still the battery DoD is around 50%. This may seem to oversize the battery (as we will not charge EV over night), but it is better to have low DoD to maintain long battery life.
 
+Below is the spec of the LiFePo4 battery we chose.
+
+![LiFePo4](images/LiFePo4.jpg)
+
+![LiFePo4_Spec](images/LiFePo4_Spec.jpg)
+
+![LiFePo4_Graph](images/LiFePo4_graph.jpg)
+
+
 #### PV Panel Sizing
 
 Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily electricity generation from a 1kW PV unit is 3.75kWh (i.e., 1,369kWh per year/365days).  
 
-![alt text](images/PVwatts.png)
+![NREL_PVWatts](images/PVwatts.png)
 
 
 This means we could expect full sunshine for 3.75 hours each day. To fully charge our battery each day, we need to have **17,349kWh/3.75hr = 4,626kW of solar PV**. 
 
 Hence, we decided to use 14 panels of polycrystalline solar PV at 350W each, which is equivalent to **350W * 14 = 4,900W.** Below is the spec of the solar panel we chose. 
 
-![alt text](images/12089171081290_0.jpg)
+![350WPV](images/12089171081290_0.jpg)
 
 
 
