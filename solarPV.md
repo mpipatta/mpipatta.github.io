@@ -47,8 +47,9 @@ Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily ele
 
 This means we could expect full sunshine for 3.75 hours each day. To fully charge our battery each day, we need to have **17,349kWh/3.75hr = 4,626kW of solar PV**. 
 
-Hence, we decided to use 14 panels of polycrystalline solar PV at 350W each, which is equivalent to **350W * 14 = 4,900W.
+Hence, we decided to use 14 panels of polycrystalline solar PV at 350W each, which is equivalent to **350W * 14 = 4,900W.** Below is the spec of the solar panel we chose. 
 
+![alt text](images/12089171081290_0.jpg)
 
 
 
