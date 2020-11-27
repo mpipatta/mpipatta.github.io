@@ -40,13 +40,11 @@ If our load draws 13,185 Wh of energy each day, this is equivalent to battery de
 
 Below is the spec of the LiFePo4 battery we chose.
 
-<img src = "images/LiFePo4.jpg" alt="LiFePo4" width="200"/>
+<img src = "images/LiFePo4.jpg" alt="LiFePo4" width="400"/>
 
-![LiFePo4](images/LiFePo4.jpg)
+<img src = "images/LiFePo4_Spec.jpg" alt="LiFePo4_Spec4" width="400"/>
 
-![LiFePo4_Spec](images/LiFePo4_Spec.jpg)
-
-![LiFePo4_Graph](images/LiFePo4_graph.jpg)
+<img src = "images/LiFePo4_graph.jpg" alt="LiFePo4_Graph" width="400"/>
 
 
 ## 4.0 Size PV Panels
