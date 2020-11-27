@@ -40,7 +40,12 @@ If our load draws 13,185 Wh of energy each day, this is equivalent to battery de
 
 #### PV Panel Sizing
 
-Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily electricity generation from a 1kW PV unit is 3.75kWh.  This means we could expect full sunshine for 3.75 hours each day. To fully charge our battery each day, we need to have **17,349kWh/3.75hr = 4,626kW of solar PV**. 
+Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily electricity generation from a 1kW PV unit is 3.75kWh.  
+
+![alt text](images/PVwatts.png)
+
+
+This means we could expect full sunshine for 3.75 hours each day. To fully charge our battery each day, we need to have **17,349kWh/3.75hr = 4,626kW of solar PV**. 
 
 We decided to use 14 panels of polycrystalline solar PV at 350W each, which is equivalent to **350W * 14 = 4,900W.
 
