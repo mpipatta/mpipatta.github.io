@@ -51,7 +51,7 @@ Below is the spec of the LiFePo4 battery we chose.
 
 Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily electricity generation from a 1kW PV unit is 3.75kWh (i.e., 1,369kWh per year/365days).  
 
-<img src = "images/PVwatts.png" alt="NREL_PVWatts" width="400"/>
+<img src = "images/PVwatts.png" alt="NREL_PVWatts" width="550"/>
 
 
 This means we could expect full sunshine for 3.75 hours each day. To fully charge our battery each day, we need to have **17,349kWh/3.75hr = 4,626kW of solar PV**. 
