@@ -40,7 +40,7 @@ If our load draws 13,185 Wh of energy each day, this is equivalent to battery de
 
 Below is the spec of the LiFePo4 battery we chose.
 
-![LiFePo4](images/LiFePo4.jpg)
+![LiFePo4](images/LiFePo4.jpg){width=200px}
 
 ![LiFePo4_Spec](images/LiFePo4_Spec.jpg)
 
