@@ -1,8 +1,8 @@
-## Design & Integration & Installation of a 5-kW Rooftop Solar PV System
+# Design & Integration & Installation of a 5-kW Rooftop Solar PV System
 
 On this page, let us discuss how we can design a completely off-grid 5-kW rooftop solar PV system. 
 
-### Design an off-grid 5-kW rooftop solar PV system
+## 1.0 Determine Load
 
 First, we need to know what loads we are going to use. In our scenario, we will create a rooftop system that can serve three houses. All three houses have the appliances as listed in the table below.
 
@@ -25,11 +25,11 @@ From the table, we can see that the total load if all appliances are used at the
 
 Also, the total Wh is 13,185Wh. Hence, **our battery size should be at least 13,185 /0.8 (assuming 80% depth of discharge) /0.95 (assuming 95% inverter efficiency) = 17,349 Wh.** 
 
-#### System Voltage
+## 2.0 Decide on the System Voltage
 
 Typically, for a system with load between 1 and 5 kWh, we can use a 24V system. In this case, the load is >5kWh. Hence, our system is designed as a 48V system.
 
-#### Battery Sizing
+## 3.0 Size the Battery 
 
 We decided to use LiFePo4 (Lithium Iron Phosphate) battery. At the time of desining this PV system, LiFePo4 battery sizes in the market are: 105Ah, 120Ah, 200Ah and 280Ah. Each battery voltage is around 3.2V. Hence we need to use 16 LiFePo4 cells for a 48V system.
 
@@ -47,7 +47,7 @@ Below is the spec of the LiFePo4 battery we chose.
 ![LiFePo4_Graph](images/LiFePo4_graph.jpg)
 
 
-#### PV Panel Sizing
+## 4.0 Size PV Panels
 
 Based on PVWatt website (https://pvwatts.nrel.gov/), for our location, daily electricity generation from a 1kW PV unit is 3.75kWh (i.e., 1,369kWh per year/365days).  
 
